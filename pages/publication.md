@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-layout: post
+layout: default
 date: 2018-02-12
 permalink: publication.html
 ---
