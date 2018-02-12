@@ -2,7 +2,7 @@
 title: "Publication"
 layout: post
 date: 2018-02-12
-permalink: publicaton.html
+permalink: publication.html
 ---
 
 - [ORCiD](https://orcid.org/0000-0002-8571-0663)
