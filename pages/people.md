@@ -1,6 +1,7 @@
 ---
 layout: post
-title: People
+title: "People"
+date: 2018-02-12
 author: Jae-Seung Lee
 ---
 
