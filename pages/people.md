@@ -1,6 +1,6 @@
-
 ---
 layout: page
+title: People
 ---
 
 **Soonchil Lee**
