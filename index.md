@@ -8,4 +8,4 @@ I have also demonstrated amplified measurement and detection schemes with quantu
 
 
 [People](./pages/people.md)
-[Apps](./site/apps.md)
+[Apps](./pages/apps.md)
