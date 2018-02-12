@@ -1,3 +1,3 @@
 # jaeseung16.github.io
 
-This my GitHub userpage.
+This is my GitHub user page.
