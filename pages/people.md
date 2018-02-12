@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: People
+layout: page
 ---
 
 **Soonchil Lee**
