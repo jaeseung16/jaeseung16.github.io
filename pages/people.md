@@ -8,33 +8,30 @@ author: Jae-Seung Lee
 
 ## PhD Advisor
 
-**Soonchil Lee**
+**Soonchil Lee** [Website](http://mrm.kaist.ac.kr)
 
 Professor, Department of Physics, Korea Advanced Institute of Science and Technology
 
-[Website](http://mrm.kaist.ac.kr)
+
 
 ## Postoc Advisor
 
-**Anatoly Khitrin**
+**Anatoly Khitrin** [Website](https://wp.nyu.edu/anatoly_khitrin)
 
 Professor, Department of Chemistry, Kent State University
 
-[Website](https://wp.nyu.edu/anatoly_khitrin)
 
-**Alexej Jerschow**
+
+**Alexej Jerschow** [Website](https://www.nyu.edu/projects/jerschow/)
 
 Professor, Department of Chemistry, New York University
 
-[Website](https://www.nyu.edu/projects/jerschow/)
 
-**Ravinder Regatte**
+
+**Ravinder Regatte** [Website](https://www.med.nyu.edu/biosketch/regatr01)
 
 Professor, Department of Radiology, New York University School of Medicine
 
-[Website](https://www.med.nyu.edu/biosketch/regatr01)
 
-
-##
-
+---
 Last updated on {{ page.date }}
