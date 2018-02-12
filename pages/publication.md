@@ -5,7 +5,7 @@ date: 2018-02-12
 permalink: publication.html
 ---
 
-{{ page.title }}
+## Publication
 
 - [ORCiD](https://orcid.org/0000-0002-8571-0663)
 - [ResearchID](https://www.researcherid.com/rid/A-5669-2009)
