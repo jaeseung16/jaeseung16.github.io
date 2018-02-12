@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "People"
 date: 2018-02-12
 author: Jae-Seung Lee
@@ -28,3 +28,5 @@ Professor, Department of Chemistry, New York University
 Professor, Department of Radiology, New York University School of Medicine
 
 [Website](https://www.med.nyu.edu/biosketch/regatr01)
+
+{{ page.date }}
