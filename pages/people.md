@@ -1,6 +1,7 @@
 ---
 layout: post
 title: People
+author: Jae-Seung Lee
 ---
 
 **Soonchil Lee**
