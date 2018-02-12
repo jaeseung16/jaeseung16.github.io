@@ -3,7 +3,7 @@ layout: default
 title: "People"
 date: 2018-02-12
 author: Jae-Seung Lee
-permalink: people.md
+permalink: people.html
 ---
 # People
 
