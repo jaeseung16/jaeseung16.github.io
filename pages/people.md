@@ -4,12 +4,17 @@ title: "People"
 date: 2018-02-12
 author: Jae-Seung Lee
 ---
+# People
+
+## PhD Advisor
 
 **Soonchil Lee**
 
 Professor, Department of Physics, Korea Advanced Institute of Science and Technology
 
 [Website](http://mrm.kaist.ac.kr)
+
+## Postoc Advisor
 
 **Anatoly Khitrin**
 
@@ -29,4 +34,7 @@ Professor, Department of Radiology, New York University School of Medicine
 
 [Website](https://www.med.nyu.edu/biosketch/regatr01)
 
-{{ page.date }}
+
+##
+
+Last updated on {{ page.date }}
