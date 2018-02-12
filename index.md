@@ -1,3 +1,9 @@
+---
+layout: default
+title: "About me"
+date: 2018-02-12
+---
+
 # About me
 
 I have expertise in nuclear magnetic resonance (NMR) and magnetic resonance imaging (MRI). I have been working in the fields of quantum computing, spectroscopy, and medical imaging and am a recipient of an NIH Mentored Quantitative Research Career Development Award (Grant #: K25AR060269).
