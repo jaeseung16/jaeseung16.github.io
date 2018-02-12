@@ -1,0 +1,2 @@
+- [People](./pages/people.md)
+- [Apps](./pages/apps.md)
