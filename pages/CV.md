@@ -36,3 +36,6 @@ Department of Physics
 #### 1992. 3. ~ 1996. 2.    BS in Physics
 Korea Advanced Institute of Science and Technology,
 Department of Physics
+
+---
+Last updated on {{ page.date }}
