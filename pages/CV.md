@@ -2,6 +2,7 @@
 title: 'CV'
 layout: default
 permalink: cv.html
+date: 2018-02-13
 ---
 
 # CV
