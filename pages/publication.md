@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 layout: default
-date: 2018-02-12
+date: 2018-02-14
 permalink: publication.html
 ---
 
