@@ -15,7 +15,7 @@ Professor, Department of Physics, Korea Advanced Institute of Science and Techno
 
 
 
-## Postoc Advisor
+## Postoc Advisors
 
 **Anatoly Khitrin** [Website](https://wp.nyu.edu/anatoly_khitrin)
 
