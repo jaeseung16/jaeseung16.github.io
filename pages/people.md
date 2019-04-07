@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "People"
-date: 2018-02-12
+date: 2019-04-06
 author: Jae-Seung Lee
 permalink: people.html
 ---
