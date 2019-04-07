@@ -9,7 +9,13 @@ date: 2018-02-13
 
 ## Employment
 
-#### 2008. 3 ~ Present  Postdoctoral Fellow
+#### 2019. 1 ~ Present Developer
+ICE Bonds
+
+#### 2018. 8 ~ 2018.12 Junior Developer
+TMC Bonds, LLC
+
+#### 2008. 2 ~ 2018. 8  Postdoctoral Fellow
 [New York University Langone Medical Center](https://med.nyu.edu), [Department of Radiology](https://med.nyu.edu/radiology/), [Bernard and Irene Schwartz Center for Biomedical Imaging](https://med.nyu.edu/radiology/research/center-biomedical-imaging/)
 
 New York University, Department of Chemistry
