@@ -7,9 +7,15 @@ date: 2019-04-06
 
 ## Apps
 
-[NMR Calculator](https://github.com/jaeseung16/NMRCalculator.git)
+- NMR Calculator
+  - [Repository](https://github.com/jaeseung16/NMRCalculator)
+  - [Suppoting Page](apps/NMRCalculator.md)
 
-[SearchPubChem](https://github.com/jaeseung16/SearchPubChem.git)
+- SearchPubChem
+  - [Repository](https://github.com/jaeseung16/SearchPubChem)
+
+- MandelbrotExplorer
+  - [Repository](https://github.com/jaeseung16/MandelbrotExplorer)
 
 ---
 Last updated on {{ page.date }}
