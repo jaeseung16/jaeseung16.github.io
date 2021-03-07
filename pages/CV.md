@@ -9,21 +9,16 @@ date: 2019-04-06
 
 ## Employment
 
-#### 2019. 1 ~ Present Developer
+#### 2018. 8 ~ Present Developer (Associate Developer)
 [ICE Bonds](https://www.theice.com/data-services/ice-bonds)
-
-#### 2018. 8 ~ 2018.12 Junior Developer
-[TMC Bonds, LLC](https://www.tmcbonds.com)
 
 #### 2008. 2 ~ 2018. 8  Postdoctoral Fellow
 [New York University Langone Medical Center](https://med.nyu.edu), [Department of Radiology](https://med.nyu.edu/radiology/), [Bernard and Irene Schwartz Center for Biomedical Imaging](https://med.nyu.edu/radiology/research/center-biomedical-imaging/)
 
 New York University, Department of Chemistry
 
-
 #### 2003. 3. ~ 2008. 2.  Postdoctoral Fellow
 [Kent State University](https://www.kent.edu), [Department of Chemistry](https://www.kent.edu/chemistry)
-
 
 ## Funding
 
@@ -43,6 +38,18 @@ Department of Physics
 #### 1992. 3. ~ 1996. 2.    BS in Physics
 Korea Advanced Institute of Science and Technology,
 Department of Physics
+
+## Certifications
+
+#### Udacity
+- 2020 [C++ Nanodegree Program](https://graduation.udacity.com/confirm/NQSRPREA)
+- 2018 [Deep Learning Nanodegree Program](https://graduation.udacity.com/confirm/CGYGDGCS)
+- 2018 [iOS Developer Nanodegree Program](https://graduation.udacity.com/confirm/ADP7CGHA)
+
+#### Coursera
+- 2018 [Financial Enginnering and Risk Management Part I](https://www.coursera.org/account/accomplishments/certificate/W8EELAECPXVE)
+- 2017 [Neural Netowrks for Machine Learning](https://www.coursera.org/account/accomplishments/verify/GSCYT66C45MF)
+- 2017 [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/J7UZSYWLGP45)
 
 ---
 Last updated on {{ page.date }}
