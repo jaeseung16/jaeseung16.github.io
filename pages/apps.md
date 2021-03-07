@@ -9,7 +9,8 @@ date: 2019-04-06
 
 - NMR Calculator
   - [Repository](https://github.com/jaeseung16/NMRCalculator)
-  - [Suppoting Page](apps/NMRCalculator.md)
+  - [Suppoting Page](https://jaeseung16.github.io/NMRCalculator/)
+  - [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy.html)
 
 - SearchPubChem
   - [Repository](https://github.com/jaeseung16/SearchPubChem)
