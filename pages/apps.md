@@ -2,7 +2,7 @@
 layout: default
 title: "Apps"
 permalink: apps.html
-date: 2021-03-07
+date: 2021-11-07
 ---
 
 ## Apps
@@ -12,11 +12,25 @@ date: 2021-03-07
   - [Suppoting Page](https://jaeseung16.github.io/NMRCalculator/)
   - [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy.html)
 
-- SearchPubChem
+- Search PubChem
   - [Repository](https://github.com/jaeseung16/SearchPubChem)
+  - [Suppoting Page](https://jaeseung16.github.io/SearchPubChem/)
+  - [Privacy Policy](https://jaeseung16.github.io/SearchPubChem/PrivacyPolicy.html)
 
-- MandelbrotExplorer
+- Mandelbrot Explorer
   - [Repository](https://github.com/jaeseung16/MandelbrotExplorer)
+  - [Suppoting Page](https://jaeseung16.github.io/MandelbrotExplorer/)
+  - [Privacy Policy](https://jaeseung16.github.io/MandelbrotExplorer/PrivacyPolicy.html)
+
+- Link Piler
+  - [Repository](https://github.com/jaeseung16/LinkCollector)
+  - [Suppoting Page](https://jaeseung16.github.io/LinkCollector/)
+  - [Privacy Policy](https://jaeseung16.github.io/LinkCollector/PrivacyPolicy.html)
+
+- Belongings Organizer
+  - [Repository](https://github.com/jaeseung16/BelongingsOrganizer)
+  - [Suppoting Page](https://jaeseung16.github.io/BelongingsOrganizer/)
+  - [Privacy Policy](https://jaeseung16.github.io/BelongingsOrganizer/PrivacyPolicy.html)
 
 ---
 Last updated on {{ page.date }}
