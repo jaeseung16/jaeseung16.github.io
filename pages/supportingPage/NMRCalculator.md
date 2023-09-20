@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "NMR Calculator 2"
-permalink: supportingPage/apps.html
+permalink: /:path/:titl.html
 date: 2021-11-07
 ---
 
