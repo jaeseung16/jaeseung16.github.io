@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Apps"
-permalink: /apps/
+permalink: apps.html
 date: 2021-11-07
 ---
 
