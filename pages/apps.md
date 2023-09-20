@@ -7,9 +7,9 @@ date: 2021-11-07
 
 ## Apps
 
-- NMR Calculator
+- NMR Calculator 2
   - [Repository](https://github.com/jaeseung16/NMRCalculator)
-  - [Suppoting Page](https://jaeseung16.github.io/NMRCalculator/)
+  - [Suppoting Page](https://jaeseung16.github.io/supportingPage/NMRCalculator.md)
   - [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy.html)
 
 - Search PubChem
