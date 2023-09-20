@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Apps"
-permalink: apps.html
+permalink: /apps/
 date: 2021-11-07
 ---
 
@@ -9,7 +9,7 @@ date: 2021-11-07
 
 - NMR Calculator 2
   - [Repository](https://github.com/jaeseung16/NMRCalculator)
-  - [Suppoting Page](https://jaeseung16.github.io/supportingPage/NMRCalculator.md)
+  - [Suppoting Page](https://jaeseung16.github.io/supportingPage/NMRCalculator.html)
   - [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy.html)
 
 - Search PubChem
