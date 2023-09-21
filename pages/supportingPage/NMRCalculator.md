@@ -1,11 +1,3 @@
----
-layout: default
-title: "NMR Calculator 2"
-permalink: /:path/:titl.html
-date: 2021-11-07
----
-
-
 # NMRCalculator 2
 
 You may clone or download the source from the GitHub [repository](https://github.com/jaeseung16/NMRCalculator). Or
