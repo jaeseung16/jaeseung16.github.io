@@ -7,30 +7,45 @@ date: 2021-11-07
 
 ## Apps
 
-- NMR Calculator 2
-  - [Repository](https://github.com/jaeseung16/NMRCalculator)
-  - [Suppoting Page](https://jaeseung16.github.io/NMRCalculator/index2.html)
-  - [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy2.html)
+### Spending Keeper
+- [Repository](https://github.com/jaeseung16/SpendingKeeper)
+- [Suppoting Page](https://jaeseung16.github.io/SpendingKeeper/)
+- [Privacy Policy](https://jaeseung16.github.io/SpendingKeeper/PrivacyPolicy)
 
-- Search PubChem
-  - [Repository](https://github.com/jaeseung16/SearchPubChem)
-  - [Suppoting Page](https://jaeseung16.github.io/SearchPubChem/)
-  - [Privacy Policy](https://jaeseung16.github.io/SearchPubChem/PrivacyPolicy.html)
+### NYC Buses Near Me
+- [Repository](https://github.com/jaeseung16/NYCBusNearBy)
+- [Suppoting Page](https://jaeseung16.github.io/NYCBusNearBy/)
+- [Privacy Policy](https://jaeseung16.github.io/NYCBusNearBy/PrivacyPolicy)
 
-- Mandelbrot Explorer
-  - [Repository](https://github.com/jaeseung16/MandelbrotExplorer)
-  - [Suppoting Page](https://jaeseung16.github.io/MandelbrotExplorer/)
-  - [Privacy Policy](https://jaeseung16.github.io/MandelbrotExplorer/PrivacyPolicy.html)
+### NYC Subway Near MEe
+- [Repository](https://github.com/jaeseung16/MTANearby)
+- [Suppoting Page](https://jaeseung16.github.io/MTANearby/)
+- [Privacy Policy](https://jaeseung16.github.io/MTANearby/PrivacyPolicy)
 
-- Link Piler
-  - [Repository](https://github.com/jaeseung16/LinkCollector)
-  - [Suppoting Page](https://jaeseung16.github.io/LinkCollector/)
-  - [Privacy Policy](https://jaeseung16.github.io/LinkCollector/PrivacyPolicy.html)
+### NMR Calculator
+- [Repository](https://github.com/jaeseung16/NMRCalculator)
+- [Suppoting Page](https://jaeseung16.github.io/NMRCalculator/index2.html)
+- [Privacy Policy](https://jaeseung16.github.io/NMRCalculator/privacypolicy2.html)
 
-- Belongings Organizer
-  - [Repository](https://github.com/jaeseung16/BelongingsOrganizer)
-  - [Suppoting Page](https://jaeseung16.github.io/BelongingsOrganizer/)
-  - [Privacy Policy](https://jaeseung16.github.io/BelongingsOrganizer/PrivacyPolicy.html)
+### Search PubChem
+- [Repository](https://github.com/jaeseung16/SearchPubChem)
+- [Suppoting Page](https://jaeseung16.github.io/SearchPubChem/)
+- [Privacy Policy](https://jaeseung16.github.io/SearchPubChem/PrivacyPolicy.html)
+
+### Mandelbrot Explorer
+- [Repository](https://github.com/jaeseung16/MandelbrotExplorer)
+- [Suppoting Page](https://jaeseung16.github.io/MandelbrotExplorer/)
+- [Privacy Policy](https://jaeseung16.github.io/MandelbrotExplorer/PrivacyPolicy.html)
+
+### Link Piler
+- [Repository](https://github.com/jaeseung16/LinkCollector)
+- [Suppoting Page](https://jaeseung16.github.io/LinkCollector/)
+- [Privacy Policy](https://jaeseung16.github.io/LinkCollector/PrivacyPolicy.html)
+
+### Belongings Organizer
+- [Repository](https://github.com/jaeseung16/BelongingsOrganizer)
+- [Suppoting Page](https://jaeseung16.github.io/BelongingsOrganizer/)
+- [Privacy Policy](https://jaeseung16.github.io/BelongingsOrganizer/PrivacyPolicy.html)
 
 ---
 Last updated on {{ page.date }}
