@@ -13,27 +13,30 @@ date: 2021-03-07
 [ICE Bonds](https://www.theice.com/data-services/ice-bonds)
 
 ### Postdoctoral Fellow (2008. 2 - 2018. 8)
-[New York University Langone Medical Center](https://med.nyu.edu), [Department of Radiology](https://med.nyu.edu/radiology/), [Bernard and Irene Schwartz Center for Biomedical Imaging](https://med.nyu.edu/radiology/research/center-biomedical-imaging/) & [New York University](https://www.nyu.edu), [Department of Chemistry](https://as.nyu.edu/departments/chemistry.html)
+[New York University Langone Medical Center](https://med.nyu.edu), [Department of Radiology](https://med.nyu.edu/radiology/), [Bernard and Irene Schwartz Center for Biomedical Imaging](https://med.nyu.edu/radiology/research/center-biomedical-imaging/)
+
+[New York University](https://www.nyu.edu), [Department of Chemistry](https://as.nyu.edu/departments/chemistry.html)
 
 ### Postdoctoral Fellow (2003. 3. - 2008. 2.)
-@ [Kent State University](https://www.kent.edu), [Department of Chemistry](https://www.kent.edu/chemistry)
+[Kent State University](https://www.kent.edu), [Department of Chemistry](https://www.kent.edu/chemistry)
 
 ## Funding
 
-### NIH/NIAMS ([K25AR060269](https://reporter.nih.gov/search/4tqSzNi-AkK6L8moMnLyaQ/projects?shared=true), 2011. 7 ~ 2016. 6)
-Development of optimal sodium-MRI methodology for the musculoskeletal field.
+### NIH/NIAMS [K25AR060269](https://reporter.nih.gov/search/4tqSzNi-AkK6L8moMnLyaQ/projects?shared=true) (2011. 7 ~ 2016. 6)
+
+Development of optimal sodium-MRI methodology for the musculoskeletal field
 
 ## Education
 
-### PhD in Physics (1998. 3. - 2003. 2.)
+### PhD, Physics (1998. 3. - 2003. 2.)
 [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/),
 [Department of Physics](http://physics.kaist.ac.kr)
 
-### MS in Physics (1996. 3. - 1998. 2.) 
+### MS, Physics (1996. 3. - 1998. 2.) 
 [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/),
 [Department of Physics](http://physics.kaist.ac.kr)
 
-### BS in Physics (1992. 3. - 1996. 2.) 
+### BS, Physics (1992. 3. - 1996. 2.) 
 [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/),
 [Department of Physics](http://physics.kaist.ac.kr)
 
