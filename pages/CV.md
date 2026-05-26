@@ -2,7 +2,7 @@
 title: 'CV'
 layout: default
 permalink: cv.html
-date: 2021-03-07
+date: 2026-05-25
 ---
 
 # CV
