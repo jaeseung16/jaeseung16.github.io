@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About me"
-date: 2018-02-12
+date: 2026-05-27
 ---
 
 # About me
